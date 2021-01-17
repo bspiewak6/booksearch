@@ -39,9 +39,9 @@ const SavedBooks = () => {
 
   
   const { loading, data } = useQuery(GET_ME);
-  const [removeBook, { error }] = useMutation(REMOVE_BOOK);
+  const [removeBook] = useMutation(REMOVE_BOOK);
 
-  const userData = data?.me || [];
+  const userData = data?.userData || [];
   console.log(userData);
   
 
@@ -60,10 +60,6 @@ const SavedBooks = () => {
 
       console.log(data);
       console.log(bookId);
-
-      if (error) {
-        throw new Error('something went wrong!');
-      }
 
       // const updatedUser = await response.json();
       // setUserData(updatedUser);
