@@ -19,6 +19,7 @@ This Google Book Search Engine is a fully functioning full-stack MERN applicatio
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Mongoose.js](https://img.shields.io/badge/Mongoose.js-880000?style=for-the-badge)  
+![GraphQL Playground](https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge)   
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
 ## Screenshots
@@ -31,7 +32,7 @@ This Google Book Search Engine is a fully functioning full-stack MERN applicatio
 
 ## Links
 * [Book Search Heroku Deployed App](https://protected-beyond-33559.herokuapp.com/)
-* [Book Search Repository](https://github.com/bspiewak6/booksearch)
+* [Book Search GitHub Repository](https://github.com/bspiewak6/booksearch)
 
 ## License
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)  
